@@ -1,6 +1,6 @@
 # Raquel J.
 
-Data scientist and founder. I build machine-learning, NLP and forecasting solutions, and bring 14 years of software testing and test management at a major UK broadcaster to the way I validate models.
+Data scientist and founder. I build machine-learning, NLP and forecasting solutions, and bring 14 years of software testing and test management.
 
 **Credential:** Career Accelerator in Data Science with Machine Learning & AI - Certificate of Completion, University of Cambridge Institute of Continuing Education with FourthRev, 2025.
 
