@@ -8,7 +8,7 @@ Data scientist and founder. I build machine-learning, NLP and forecasting soluti
 | Project | What it does | Key result |
 |---|---|---|
 | [G-SIB disclosure analysis](https://github.com/JR001-dot/gsib-risk-assessment) (team) | FinBERT/VADER sentiment and risk themes across 81 bank reports and transcripts | 17,292 text chunks scored; negativity 9-20% by bank |
-| [Customer review topic modelling](https://github.com/JR001-dot/nlp-topic-modelling) | BERTopic, BERT emotion model, LLM topic extraction on 27,585 gym-chain reviews | Anger driven by cleanliness, staff, equipment and fees |
+| [Customer review topic modelling](https://github.com/JR001-dot/nlp-topic-modelling) | BERTopic, BERT emotion model, LLM topic extraction on 27,585 Wellness centre reviews | Anger driven by cleanliness, staff, equipment and fees |
 | [Book sales forecasting](https://github.com/JR001-dot/book-sales-forecasting) | SARIMA vs LSTM vs hybrids on weekly sales of two titles | SARIMA MAPE 19.6% (Title B); hybrids added nothing |
 | [Crime incident forecasting](https://github.com/JR001-dot/crime-forecasting) | Seasonal ARIMA on city-wide incident counts | Best SARIMA test MSE 139.98 vs auto_arima 160.46 |
 | [Student non-completion prediction](https://github.com/JR001-dot/student-dropout-prediction) | Staged XGBoost and neural network on 25,059 students | F1 0.65 for non-completers at the engagement stage |
